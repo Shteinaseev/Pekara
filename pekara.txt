@@ -1,0 +1,28 @@
+﻿P001|Pekara Cvet|Kifla|pecivo|belo|30
+
+P002|Pekara Cvet|Burek sa sirom|pita|sa sirom|180
+
+P003|Pekara Cvet|Hleb Sava|hleb|beli|90
+
+P004|Pekara Mlin|Hleb sa semenkama|hleb|integralni|120
+
+P005|Pekara Mlin|Croissant|slatko pecivo|čokolada|110
+
+P006|Pekara Mlin|Žu-žu|lisnato|sa susamom|50
+
+P007|Pekara Sunce|Mantije|pita|sa mesom|220
+
+P008|Pekara Sunce|Krofna|slatko pecivo|džem|90
+
+P009|Pekara Sunce|Pletenica|pecivo|slano|45
+
+P010|Pekara Dva Brata|Rolviršla|lisnato|sa viršlom|130
+
+P011|Pekara Dva Brata|Štrudla|slatko pecivo|mak|100
+
+P012|Pekara Dva Brata|Proja|pecivo|kukuruzno|60
+gh|gfhhg|gfh|gh|400
+gh|gfhhg|gfh|gh|400
+gh|gfhhg|gfh|gh|400
+gh|gfhhg|gfh|gh|400
+jl|klk|jh|hj|300
